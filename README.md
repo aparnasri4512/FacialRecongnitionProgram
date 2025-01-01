@@ -25,4 +25,4 @@ Dependencies
 
 Demo
 
-The system processes a live video feed, detects faces, and identifies them based on the known database.
+The program processes a live video feed, detects faces, and identifies them based on the known database.
