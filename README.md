@@ -8,7 +8,7 @@ Features
 - Face Recognition: Matches faces against a database of known encodings with customizable threshold settings.
 - Real-Time Processing: Integrates with a webcam to perform live face detection and recognition.
 - Customizable Database: Add your own known faces by providing images and names.
-- 
+  
 How It Works
 - Face Detection: Detects faces in the input frame using MTCNN.
 - Face Encoding: Encodes detected faces into feature vectors using InceptionResnetV1.
