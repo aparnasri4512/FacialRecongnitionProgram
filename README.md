@@ -15,3 +15,13 @@ How It Works
 - Known Face Database: Predefined faces and names are encoded for matching.
 - Recognition: Compares live face encodings with known encodings using Euclidean distance to determine identity.
 - Real-Time Display: Displays bounding boxes and names of recognized faces in a video stream.
+
+Dependencies
+- Python 3.8+
+- PyTorch
+- OpenCV
+- FaceNet-PyTorch
+- NumPy
+
+Demo
+The system processes a live video feed, detects faces, and identifies them based on the known database.
