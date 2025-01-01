@@ -24,4 +24,5 @@ Dependencies
 - NumPy
 
 Demo
+
 The system processes a live video feed, detects faces, and identifies them based on the known database.
