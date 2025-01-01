@@ -1,4 +1,5 @@
-Face Recognition System Using PyTorch and OpenCV
+Face Recognition System Using PyTorch and OpenCV: 
+
 This project demonstrates a real-time face recognition system using PyTorch, OpenCV, and the FaceNet model. The program leverages the MTCNN (Multi-task Cascaded Convolutional Networks) for face detection and InceptionResnetV1 (FaceNet) for face encoding and recognition.
 
 Features
